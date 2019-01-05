@@ -1,0 +1,7 @@
+I'm just providing these schemas to make it easier for you to start up with SQLite.
+
+If you want to run this on MySQL or Postgres, you're probably going to need to write
+your own (mostly compatible) schemas.
+
+You should probably make sure all the unique constraints that exist here also exist
+on whatever database you are using.
